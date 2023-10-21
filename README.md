@@ -1,6 +1,6 @@
 # NFT Platue
 
-NFT Platue is a dynamic NFT marketplace built with React that allows users to view and bid on a variety of NFTs. Integrated with Ethereum, it offers real-time updates of bidding events and other interactions.
+NFT Platue is a dynamic NFT marketplace built with React that allows users to view and bid on a variety of NFTs. Integrated with Ethereum, it offers real-time updates of bidding events and other interactions. The system is deployed on Google Cloud Platform (GCP) and can be accessed [here](http://34.125.246.70:3000/).
 
 ## Features
 
@@ -13,13 +13,13 @@ NFT Platue is a dynamic NFT marketplace built with React that allows users to vi
 
 1. Clone the repository:
 ```shell
-git clone https://github.com/yourusername/nft-platue.git
+git clone https://github.com/Aryamanraj/unfold_system.git
 ```
 
 
 2. Navigate to the project folder:
 ```sh
-cd nft-platue
+cd unfold_system
 ```
 
 3. Install dependencies:
